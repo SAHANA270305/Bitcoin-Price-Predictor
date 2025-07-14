@@ -31,17 +31,12 @@ This project predicts future Bitcoin prices using the **Facebook Prophet** model
 - pystan  
 - pillow  
 
-Install using:
+## Outputs:
+<img width="895" height="565" alt="image" src="https://github.com/user-attachments/assets/d2f8d8bb-24cb-4cd7-8de9-378a12318d5d" />
+<img width="1910" height="892" alt="image" src="https://github.com/user-attachments/assets/4022f154-3f3d-4286-87f2-3b382b668711" />
 
-```bash
-pip install -r requirements.txt
-```
 
-## ▶️ Running the App
 
-```bash
-python main_gui.py
-```
 
 ## 📚 References
 
